@@ -1,4 +1,4 @@
-# odin-recipes
+git@github.com:siyamhidayat/odin-recipes.git# odin-recipes
 am new to coding.
 i have 0% knowledge about computer.
 i started odin project.
